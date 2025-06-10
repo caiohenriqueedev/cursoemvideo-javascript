@@ -5,3 +5,5 @@ document.write(`Olá, <strong>${nome}</strong>! seu nome tem ${nome.length} letr
 document.write(`seu nome em maisculas é ${nome.toUpperCase()}</br>`);
 
 document.write(`Seu nome em minusculas é ${nome.toLowerCase()}`);
+
+// teste... testando
